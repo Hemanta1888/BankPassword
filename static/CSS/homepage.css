@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95bd34713.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container img{
+    width:42%;
+    margin-left: 58%;
+}
+
+.button a{
+    background-color:rgb(36, 221, 175);
+    border: none;
+    color: black;
+    font-family: Harrington;
+    font-size: 18px;
+    margin-top: 5px;
+}
+.button a:hover{
+    background-color:white;
+    border-radius: 30%;
+    border: 2px solid green;
+    color: rgb(6, 87, 218);
+}
+.container .jumbotron{
+    width:60%;
+    margin-top: -25%;
+    margin-left: -5%;
+    height:250px;
+    background-color: white;
+}
+.container .jumbotron h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container .jumbotron p{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container .jumbotron details{
+    text-align: center;
+}
